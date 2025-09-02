@@ -1,0 +1,36 @@
+body{
+background: #85754e;
+text-align: center;
+}
+.button {
+  border: none;
+  background-color:#fcc200;
+  color:white;
+  padding: 10px 20px;
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px; 
+  cursor: pointer;
+}
+.detail-box {
+  border: 2px solid #222;
+  background-color: #f9e79f;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  width: 250px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.detail-box h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.detail-box p {
+  margin: 5px 0;
+}
