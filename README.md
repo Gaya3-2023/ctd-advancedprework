@@ -41,8 +41,25 @@ This project is a simple Star Wars Data Explorer built using the SWAPI(Star Wars
 
 # How to use:
 
-1️⃣Clone or download the repository.
+1️⃣Click the green "Code" button near the top-right of the file list.
 
-2️⃣Navigate to  index.html and double click to open in your browser.
+2️⃣Select "Download ZIP" from the dropdown menu.
 
-3️⃣Click on CHARACTERS or FILMS to explore STAR WARS data.
+3️⃣The repository will begin downloading as a .zip file to your computer.
+
+4️⃣Once the download is complete, navigate to your Downloads folder (or the location where your files are saved).
+
+5️⃣Right-click the downloaded .zip file and choose "Extract All" to unzip the contents.
+
+6️⃣Open the extracted folder and locate the file named index.html.
+
+7️⃣Double-click index.html to launch it in your web browser.
+
+8️⃣Once the page loads, click on CHARACTERS and FILES to explore the Star Wars data.
+
+
+
+
+
+
+
