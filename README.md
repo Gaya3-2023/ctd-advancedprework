@@ -41,6 +41,8 @@ This project is a simple Star Wars Data Explorer built using the SWAPI(Star Wars
 
 # How to use:
 
+To run this webpage locally on your computer(Laptop/Desktop),follow the steps below:
+
 1️⃣Click the green "Code" button near the top-right of the file list.
 
 2️⃣Select "Download ZIP" from the dropdown menu.
